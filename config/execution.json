@@ -1,0 +1,34 @@
+{
+  "input_class" : {
+    "package" : "ontology_dc8f06af066e4a7880a5938933236037.simple_text",
+    "class" : "SimpleText"
+  },
+  "input_schema" : {
+    "package" : "ontology_dc8f06af066e4a7880a5938933236037.simple_text",
+    "class" : "SimpleTextSchema"
+  },
+  "output_class" : {
+    "package" : "ontology_dc8f06af066e4a7880a5938933236037.simple_text",
+    "class" : "SimpleText"
+  },
+  "output_schema" : {
+    "package" : "ontology_dc8f06af066e4a7880a5938933236037.simple_text",
+    "class" : "SimpleTextSchema"
+  },
+  "config_class" : {
+    "package" : null,
+    "class" : null
+  },
+  "config_schema" : {
+    "package" : null,
+    "class" : null
+  },
+  "main_callback" : {
+    "package" : "main",
+    "function" : "execute"
+  },
+  "config_callback" : {
+    "package" : "main",
+    "function" : "config"
+  }
+}

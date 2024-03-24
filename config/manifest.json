@@ -1,0 +1,11 @@
+{
+  "name" : "cognitive-assistant",
+  "version" : "1.1",
+  "description" : "cognitive-assistant",
+  "organization" : null,
+  "sdk" : "0.1.11",
+  "overview" : null,
+  "input" : "dc8f06af066e4a7880a5938933236037/72ea19aa69889d61c8a83e4f8ff689bd/1.0",
+  "output" : "dc8f06af066e4a7880a5938933236037/72ea19aa69889d61c8a83e4f8ff689bd/1.0",
+  "config" : null
+}
