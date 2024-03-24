@@ -18,7 +18,7 @@ To run the chatbot, follow these steps:
 3. Install packages using poetry `poetry install`
 4. Alternative if you have virtualenv then install dependencies using `requirements.txt` using command `pip install -r requirements.txt`.
 5. Modify the data preprocessing and datasets as needed.
-6. run the start script to start openfabric server 'sh start.sh`
+6. Run the start script to start openfabric server `sh start.sh`
 7. Go to the `http://localhost:5500` and go Swagger UI.
 8. Go to `execute` API endpoint. Add the queries that you want to ask to the chatbot as list of string.
 9. Click on **execute**. You will get the answer.
@@ -30,4 +30,4 @@ To run the chatbot, follow these steps:
 
 A demo of the project and its execution is available in the following video:
 
-[Demo Video Link](LinK)
+[Demo Video Link](https://drive.google.com/file/d/1dY7hRs_JuAJIi0XFoCbd5ns6tra3Mk7R/view?usp=sharing)
